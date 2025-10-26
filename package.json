@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://raghadelajab.github.io/raghad-portfolio/",
+  "homepage": "https://raghadelajab.github.io/RaghadElajabPortfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -21,3 +21,4 @@
     "gh-pages": "^5.0.0"
   }
 }
+
