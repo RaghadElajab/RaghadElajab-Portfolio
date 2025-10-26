@@ -2,6 +2,7 @@
   "name": "raghad-portfolio",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "homepage": "https://raghadelajab.github.io/raghad-portfolio/",
   "scripts": {
     "dev": "vite",
@@ -19,4 +20,5 @@
     "gh-pages": "^5.0.0"
   }
 }
+
 
